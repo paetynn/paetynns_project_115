@@ -7,4 +7,5 @@ As stated previously, I obtained this data from an article on FiveThirtyEight. T
 ## Data Process
 In the original data, settlement information for 31 cities was provided. Each city had extensive data, so I had to narrow it down to one for this project. I chose Detroit because I have a special interest in inner-city criminal justice and opression. Data from 2010 to 2019 was provided within this file, and I chose to include data from 2017-2019. Due to the formatting of the raw data, I had to manually input each cell in Excel. The columns I chose to include were date, amount of settlement, title of settlement, and cause. There were several blanks in the zipcode column, as well as two settlements from Chicago that I cleared from the sheet. I also converted all columns to factors to perform analysis. After cleaning, the result was 159 entries from 2017-2019 in Detroit, MI. 
 
-![Final Zipcode Histo](https://user-images.githubusercontent.com/91650239/145518379-f4adac80-5fdc-4715-b055-7ff9e7ec0d4e.JPG)
+![Final Zipcode Histo](https://user-images.githubusercontent.com/91650239/145518589-ab892d4d-2a7d-4c93-b06d-96b042fbc5bb.JPG)
+
